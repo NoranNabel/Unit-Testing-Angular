@@ -1,0 +1,19 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jasmineLab.js",
+  "scripts": {
+    "mocha": "mocha",
+    "jasmine": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "jasmine": "^4.6.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "mocha": "^10.2.0"
+  }
+}

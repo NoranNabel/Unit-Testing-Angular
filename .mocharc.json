@@ -1,0 +1,6 @@
+{
+  "watch": "false",
+  "spec": "./mocha/**/*.spec.js",
+  "exit": "true",
+  "extension": ["js"]
+}
